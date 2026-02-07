@@ -1,5 +1,5 @@
 # Bank_Management_System
-We will build a Bank Management System that can:
+Bank Management System can:
 1. Create a new bank account
 2. View all accounts
 3. Deposit money
